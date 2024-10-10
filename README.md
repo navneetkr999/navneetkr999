@@ -21,6 +21,12 @@ I’m a passionate Full Stack Developer with 5.9 years of experience in building
 
 I’m currently working on full-stack projects using ReactJS, NodeJS, and MongoDB while continuously exploring cloud technologies and microservices architecture.
 
+# Hi there, I'm Navneet! 👋
+
+![Navneet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=dark)
+
 <!--
 **navneetkr999/navneetkr999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
