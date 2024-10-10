@@ -23,9 +23,9 @@ I’m currently working on full-stack projects using ReactJS, NodeJS, and MongoD
 
 # Hi there, I'm Navneet! 👋
 
-![Navneet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=dark)
+![Navneet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=navneetkr999&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=navneetkr999&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=navneetkr999&theme=dark)
 
 <!--
 **navneetkr999/navneetkr999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
