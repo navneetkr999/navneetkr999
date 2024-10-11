@@ -1,6 +1,9 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=navneetkr999.navneetkr999" alt="Visitor's Badge" />
 
-<img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=40&pause=1000&color=1FF756&background=18CAB100&multiline=true&width=435&height=54&lines=Hey+There!%F0%9F%91%8B%F0%9F%8F%BB;I+am+Navneet+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%A6%B1)](https://git.io/typing-svg" alt="Greetings" />
+<p>
+    <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=40&pause=1000&color=1FF756&background=18CAB100&multiline=true&width=435&height=54&lines=Hey+There!%F0%9F%91%8B%F0%9F%8F%BB;I+am+Navneet+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%A6%B1)](https://git.io/typing-svg](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=40&duration=3000&pause=500&color=1FF756&background=18CAB100&width=435&height=54&lines=Hey+There!%F0%9F%91%8B%F0%9F%8F%BB;I+am+Navneet+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%A6%B1+)](https://git.io/typing-svg" alt="Greetings" />
+    
+</p>
 
 <p>
 I’m a passionate Full Stack Developer with 5.9 years of experience in building dynamic, user-centric web
