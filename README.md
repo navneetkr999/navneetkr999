@@ -1,3 +1,4 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=navneetkr999.visitor-badge" />
 # Hello, I’m Navneet! 👋
 
 I’m a passionate Full Stack Developer with 5.9 years of experience in building dynamic, user-centric web applications. My expertise spans across ReactJS, NodeJS, Salesforce Commerce Cloud, and MongoDB. From crafting responsive front-end interfaces to creating efficient backend services, I thrive on delivering scalable solutions that enhance business functionality.
