@@ -24,3 +24,4 @@ I’m currently working on full-stack projects using ReactJS, NodeJS, and MongoD
 ![Navneet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=navneetkr999&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=navneetkr999&layout=compact&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=navneetkr999&theme=dark)
+![Trophy](https://github-profile-trophy.vercel.app/?username=your-github-username)
